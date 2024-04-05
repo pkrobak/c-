@@ -1,0 +1,20 @@
+repo_name: pkrobak/C-
+report_id: c5499df434a4c614b2d7ab005246e510
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-05T20:31:51+00:00'
+requested_by: pkrobak
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/pkrobak/C-
+  detection_source: Repo Metadata
